@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sons de Animais</string>
+    <string name="cow">Vaca</string>
+    <string name="turkey">Peru</string>
+    <string name="cat">Gato</string>
+    <string name="bluejay">Gaio-azul</string>
+    <string name="parrot">Papagaio</string>
+    <string name="frog">Sapo</string>
+</resources>

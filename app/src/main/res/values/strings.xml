@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Animal Noises</string>
+    <string name="cow">Cow</string>
+    <string name="turkey">Turkey</string>
+    <string name="cat">Cat</string>
+    <string name="bluejay">Blue Jay</string>
+    <string name="parrot">Parrot</string>
+    <string name="frog">Frog</string>
 </resources>

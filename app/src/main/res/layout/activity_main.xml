@@ -20,7 +20,7 @@
         android:rowCount="3">
 
         <Button
-            android:text="Cow"
+            android:text="@string/cow"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="0"
@@ -33,7 +33,7 @@
             android:id="@+id/cow" />
 
         <Button
-            android:text="Frog"
+            android:text="@string/frog"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="0"
@@ -46,7 +46,7 @@
             android:id="@+id/frog" />
 
         <Button
-            android:text="Parrot"
+            android:text="@string/parrot"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="1"
@@ -59,7 +59,7 @@
             android:id="@+id/parrot" />
 
         <Button
-            android:text="Bluejay"
+            android:text="@string/bluejay"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="1"
@@ -72,7 +72,7 @@
             android:id="@+id/bluejay" />
 
         <Button
-            android:text="Turkey"
+            android:text="@string/turkey"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="2"
@@ -85,7 +85,7 @@
             android:id="@+id/turkey" />
 
         <Button
-            android:text="Cat"
+            android:text="@string/cat"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_row="2"
