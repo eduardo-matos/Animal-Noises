@@ -28,6 +28,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="cow"
             android:id="@+id/cow" />
 
         <Button
@@ -39,6 +41,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="frog"
             android:id="@+id/frog" />
 
         <Button
@@ -50,6 +54,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="parrot"
             android:id="@+id/parrot" />
 
         <Button
@@ -61,6 +67,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="bluejay"
             android:id="@+id/bluejay" />
 
         <Button
@@ -72,6 +80,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="turkey"
             android:id="@+id/turkey" />
 
         <Button
@@ -83,6 +93,8 @@
             android:layout_columnWeight="1"
             android:layout_rowWeight="1"
             android:layout_gravity="fill"
+            android:onClick="makeNoise"
+            android:tag="cat"
             android:id="@+id/cat" />
     </GridLayout>
 </RelativeLayout>
